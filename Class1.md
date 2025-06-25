@@ -1,7 +1,7 @@
 1. Choosing the Range in the Bisection Method
 
 A better approach to choosing the range [a, b] in the bisection method is to:
-- Ensure f(a) and f(b) have opposite signs (f(a) \cdot f(b) < 0), indicating a root exists between them.
+- Ensure f(a) and f(b) have opposite signs (f(a)*f(b) < 0), indicating a root exists between them.
 - Use prior knowledge, graphing, or sign changes in a table of values to select a tight interval close to the root, which reduces the number of iterations.
 - Avoid unnecessarily wide intervals, as they increase iterations.
 
